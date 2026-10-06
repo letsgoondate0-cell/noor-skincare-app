@@ -1,0 +1,7 @@
+{
+  "name": "NOOR Skincare Ecosystem",
+  "description": "Ultra-premium personal skincare ecosystem and intelligent routine planner. Understand your skin, manage your shelf, track your skin journey, and consult calm AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
